@@ -1,0 +1,29 @@
+body {
+	font-family: helvetica;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #98bf23;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+a:link, a:visited {
+    font-weight: bold;
+    color: #FFFFFF;
+    background-color: #98bf21;
+    width: 120px;
+    font-size: 15px;
+    text-align: center;
+    padding: 4px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+a:hover, a:active {
+    background-color: #7A991A;
+}
